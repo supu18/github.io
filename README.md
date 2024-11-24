@@ -151,7 +151,15 @@ I am a master's student specializing in **Embedded Systems Engineering** with a 
   Description: Worked on developing a UAV system for autonomous flight, including flight stabilization, path planning, and sensor integration.
 
 ---
+## 📚 **Publications**
 
+- **Published Paper**:  
+  *"Design and Development of Continuous Health Monitoring System With Message Conveying Facility"*  
+  3rd National Conference on Recent Advancements in Electrical and Electronics Technology, May 21st, 2018.  
+  Published in **International Journal of Electrical, Electronics, and Computer Systems (IJEECS)**  
+  ISSN (Online): 2347-2820, Volume - 6, Issue - 7, 2018
+
+---
 ## 🏆 **Achievements & Certifications**  
 
 - 🥉 **3rd Place in Young Aviator Program** *(2020)*  

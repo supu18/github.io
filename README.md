@@ -128,6 +128,9 @@ I am a master's student specializing in **Embedded Systems Engineering** with a 
 ### 🎯 **Job Market Analysis** *(2024)*  
 - Built a machine learning-based analysis tool to analyze job market trends and predict future employment demands.
 
+### 🎯 **AutoML Tools Comparison** *(2024)*
+- Investigated the performance of AutoML tools (AutoGluon, auto-sklearn, FLAML, TPOT, MLJAR) on tabular datasets.
+
 ---
 
 ## 🛠️ **Mini Projects**
